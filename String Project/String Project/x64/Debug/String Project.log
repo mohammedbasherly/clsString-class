@@ -1,0 +1,28 @@
+﻿  String Project.cpp
+C:\Programming\Programming Advices\course 10\String Project\String Project\String Project.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Programming\Libraries\clsString.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'String%20Project.cpp')
+  
+C:\Programming\Libraries\global_funcs.h(457,32): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'String%20Project.cpp')
+  
+C:\Programming\Libraries\global_funcs.h(551,31): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'String%20Project.cpp')
+  
+C:\Programming\Libraries\global_funcs.h(569,32): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'String%20Project.cpp')
+  
+C:\Programming\Libraries\global_funcs.h(632,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'String%20Project.cpp')
+  
+C:\Programming\Libraries\global_funcs.h(702,19): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'String%20Project.cpp')
+  
+C:\Programming\Libraries\global_funcs.h(707,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'String%20Project.cpp')
+  
+C:\Programming\Libraries\global_funcs.h(743,32): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'String%20Project.cpp')
+  
+C:\Programming\Programming Advices\course 10\String Project\String Project\String Project.cpp(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  String Project.vcxproj -> C:\Programming\Programming Advices\course 10\String Project\x64\Debug\String Project.exe
