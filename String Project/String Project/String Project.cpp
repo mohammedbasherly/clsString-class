@@ -1,10 +1,7 @@
 #include <iostream>
 using namespace std;
 
-#include "C:\Programming\Libraries\clsString.h";
-
-#include "C:\Programming\Libraries\global_funcs.h";
-
+#include "Libraries\clsString.h";
 
 int main()
 {
@@ -35,4 +32,5 @@ int main()
 
 
 	return 0;
+
 }
